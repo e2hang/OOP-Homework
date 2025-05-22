@@ -25,6 +25,7 @@ auto g = [](int n) {
 		cout << p[i].Data() << " ";
 	}
 	cout << endl;
+	delete[] p;
 };
 
 int main() {
