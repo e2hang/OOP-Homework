@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hwbuchong3\\hw3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37300D-4AA4-4A51-8372-1BFB68B80A52}|hw3.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hwbuchong3\\hw3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F37300D-4AA4-4A51-8372-1BFB68B80A52}|hw3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hwbuchong3\\hw3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hwbuchong3\\hw3\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T13:37:14.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
