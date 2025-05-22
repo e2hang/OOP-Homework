@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|solutionrelative:Func2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|solutionrelative:Func1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3998E474-DC2A-450B-8CC5-27A28998ACBD}|oop_hw1_1.vcxproj|solutionrelative:func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "func.h",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\func.h",
+              "RelativeDocumentMoniker": "func.h",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\func.h",
+              "RelativeToolTip": "func.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T10:40:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Func2.cpp",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func2.cpp",
+              "RelativeDocumentMoniker": "Func2.cpp",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func2.cpp",
+              "RelativeToolTip": "Func2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T10:35:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Func1.cpp",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func1.cpp",
+              "RelativeDocumentMoniker": "Func1.cpp",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_1\\Func1.cpp",
+              "RelativeToolTip": "Func1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T10:34:29.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

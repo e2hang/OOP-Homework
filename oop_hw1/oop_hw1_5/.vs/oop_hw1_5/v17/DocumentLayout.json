@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\testchar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|solutionrelative:testchar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\check_num.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB2CA348-1F8B-4D3F-BDC9-CE487F99CA40}|oop_hw1_5.vcxproj|solutionrelative:check_num.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testchar.cpp",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\testchar.cpp",
+              "RelativeDocumentMoniker": "testchar.cpp",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\testchar.cpp",
+              "RelativeToolTip": "testchar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T11:16:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "check_num.h",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\check_num.h",
+              "RelativeDocumentMoniker": "check_num.h",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\check_num.h",
+              "RelativeToolTip": "check_num.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T11:16:26.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\huaji\\Desktop\\code\\ProjectVS\\OOP\\oop_hw1\\oop_hw1_5\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T11:14:34.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
