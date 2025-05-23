@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\huaji\Desktop\code\ProjectVS\OOP\oop_hwbuchong3\hw2\main.cpp(64,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\huaji\Desktop\code\ProjectVS\OOP\oop_hwbuchong3\hw2\main.cpp(68,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  hw2.vcxproj -> C:\Users\huaji\Desktop\code\ProjectVS\OOP\oop_hwbuchong3\hw2\x64\Debug\hw2.exe
